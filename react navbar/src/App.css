@@ -1,0 +1,16 @@
+.App{
+  width: 80%;
+  height: 80px;
+  border: 1px solid red;
+  margin: 0 auto;
+  display:flex;
+  margin-top:50px;
+  padding: 20px;
+  background-color:black;
+  color:white;
+}
+
+#linkop{
+  display: flex;
+  margin-left: 300px;
+}
