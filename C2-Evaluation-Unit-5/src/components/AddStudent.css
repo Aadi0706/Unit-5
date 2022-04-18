@@ -1,0 +1,50 @@
+.table{
+    margin-top: 20px;
+    margin:auto;
+    width: 60%;
+  }
+  
+  .addstudent{
+  margin: auto;
+  border: 1px solid black;
+  width:40%;
+  align-items: flex-start;
+  }
+  
+  .controls{
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+  }
+  .preferred_branch{
+   
+    width: 95%;
+  }
+  .submit{
+    
+    width: 95%;
+    margin-bottom: 10px;
+  }
+  .twelth_score {
+   
+  margin-left: 120px;
+  }
+  .tenth_score{
+    margin-left: 130px;
+  }
+  .age{
+    margin-left: 185px;
+  }
+  .email{margin-left: 170px;}
+  .first_name{margin-left: 140px;}
+  .last_name{
+    margin-left: 140px;
+  }
+  .togglebtn{
+    margin: 5% 0% 0% 40%;
+    
+  }
+  .g{
+    display: flex;
+  }
