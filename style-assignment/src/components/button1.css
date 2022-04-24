@@ -1,0 +1,22 @@
+.btn1{
+    background-color: rgb(41, 146, 231);
+    color: white;
+}
+
+.btn2{
+    background-color: white;
+}
+.btn3{
+    border:  dashed;
+    border-color: grey;
+    background-color: white;
+}
+.btn4{
+    border: none;
+    background-color: white;
+}
+.btn5{
+    border: none;
+    background-color: white;
+    color:blue;
+}
